@@ -1,0 +1,137 @@
+E:\Descargas\panalbase-1.1\panalbase\bin\Debug\panalbase.exe.config
+E:\Descargas\panalbase-1.1\panalbase\bin\Debug\panalbase.exe
+E:\Descargas\panalbase-1.1\panalbase\bin\Debug\panalbase.pdb
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.AssemblyReference.cache
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.Amigos.resources
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.Comentarios.resources
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.CrearPublicacion.resources
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.Login.resources
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.PaginaPrincipal.resources
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.Properties.Resources.resources
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.Registro.resources
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.GenerateResource.cache
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.exe
+E:\Descargas\panalbase-1.1\panalbase\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\bin\Debug\panalbase.exe.config
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\bin\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\bin\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.AssemblyReference.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.Amigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.Comentarios.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.CrearPublicacion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.Login.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.PaginaPrincipal.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.Properties.Resources.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.Registro.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.GenerateResource.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.VerPublicacElegida.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\MODIF CLASE 25_04 PANAL\panalbase-1.1\panalbase\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\MODIF PUBLICACIONES y LOGIN 26_04\panalbase-1.1\panalbase\obj\Debug\panalbase.React.resources
+E:\Escritorio\panalbase\bin\Debug\panalbase.exe.config
+E:\Escritorio\panalbase\bin\Debug\panalbase.exe
+E:\Escritorio\panalbase\bin\Debug\panalbase.pdb
+E:\Escritorio\panalbase\obj\Debug\panalbase.csproj.AssemblyReference.cache
+E:\Escritorio\panalbase\obj\Debug\panalbase.Activar_edicion_pais.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Amigos.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.AniadirAmigos.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Comentarios.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.CrearPublicacion.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.EditarPubl.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Eliminar_pais.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Login.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.modificar_pais.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.PaginaPrincipal.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Pais.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Properties.Resources.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Reaccion.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.React.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Registro.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.Solicitudes.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.VerPublicacElegida.resources
+E:\Escritorio\panalbase\obj\Debug\panalbase.csproj.GenerateResource.cache
+E:\Escritorio\panalbase\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+E:\Escritorio\panalbase\obj\Debug\panalbase.exe
+E:\Escritorio\panalbase\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\bin\Debug\panalbase.exe.config
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\bin\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\bin\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.csproj.AssemblyReference.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Activar_edicion_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Amigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.AniadirAmigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Comentarios.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.CrearPublicacion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.EditarPubl.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Eliminar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Login.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.modificar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.PaginaPrincipal.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Properties.Resources.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Reaccion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.React.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Registro.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.Solicitudes.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.VerPublicacElegida.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.csproj.GenerateResource.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\modif 27_04_22\panalbase\panalbase\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\bin\Debug\panalbase.exe.config
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\bin\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\bin\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.csproj.AssemblyReference.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Activar_edicion_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Amigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.AniadirAmigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Comentarios.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.CrearPublicacion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.EditarPubl.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Eliminar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Login.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.modificar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.PaginaPrincipal.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Properties.Resources.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Reaccion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.React.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Registro.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.Solicitudes.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.VerPublicacElegida.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.csproj.GenerateResource.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.pdb
