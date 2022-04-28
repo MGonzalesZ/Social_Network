@@ -135,3 +135,29 @@ D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj
 D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
 D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.exe
 D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_panal_progra\obj\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\bin\Debug\panalbase.exe.config
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\bin\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\bin\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Amigos.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Comentarios.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Login.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Pais.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Reaccion.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.React.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Registro.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.pdb

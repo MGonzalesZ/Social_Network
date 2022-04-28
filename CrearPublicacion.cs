@@ -24,8 +24,8 @@ namespace panalbase
             Boolean permiso = false;
             //string cadena = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
             //string cadena = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
-            string cadena = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
-            SqlConnection conexion = new SqlConnection(cadena);
+            //string cadena = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
+            SqlConnection conexion = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("PRegistrarPublicacion", conexion);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
             da.SelectCommand.Parameters.Add("@IdUsuario", SqlDbType.Int);
