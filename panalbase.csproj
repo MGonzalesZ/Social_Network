@@ -12,7 +12,8 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <PublishUrl>publish\</PublishUrl>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\1apublicacion\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -22,10 +23,11 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -47,9 +49,32 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>319F4ABBD4E6F90BFE767329631D2BDF7FF4BF6D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>panalbase_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Ribbon">
+      <HintPath>..\..\Escritorio\Krypton-master\Bin\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\Escritorio\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\El_Nuevo_panal_prueba_v8.15\packages\Guna.UI2.WinForms.2.0.3.2\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -73,6 +98,12 @@
     <Compile Include="Amigos.Designer.cs">
       <DependentUpon>Amigos.cs</DependentUpon>
     </Compile>
+    <Compile Include="AmigosMostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmigosMostrar.Designer.cs">
+      <DependentUpon>AmigosMostrar.cs</DependentUpon>
+    </Compile>
     <Compile Include="AniadirAmigos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,11 +111,29 @@
       <DependentUpon>AniadirAmigos.cs</DependentUpon>
     </Compile>
     <Compile Include="BaseDeDatos.cs" />
+    <Compile Include="CHAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CHAT.Designer.cs">
+      <DependentUpon>CHAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comentario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comentario.Designer.cs">
+      <DependentUpon>Comentario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Comentarios.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Comentarios.Designer.cs">
       <DependentUpon>Comentarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Creacciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Creacciones.Designer.cs">
+      <DependentUpon>Creacciones.cs</DependentUpon>
     </Compile>
     <Compile Include="CrearPublicacion.cs">
       <SubType>Form</SubType>
@@ -98,11 +147,41 @@
     <Compile Include="EditarPubl.Designer.cs">
       <DependentUpon>EditarPubl.cs</DependentUpon>
     </Compile>
+    <Compile Include="EditarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarUsuario.Designer.cs">
+      <DependentUpon>EditarUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Eliminar_pais.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Eliminar_pais.Designer.cs">
       <DependentUpon>Eliminar_pais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnviarCodigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnviarCodigo.Designer.cs">
+      <DependentUpon>EnviarCodigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMBuscarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMBuscarUsuario.Designer.cs">
+      <DependentUpon>FRMBuscarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmElegirChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmElegirChat.Designer.cs">
+      <DependentUpon>frmElegirChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMUsuariosMostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMUsuariosMostrar.Designer.cs">
+      <DependentUpon>FRMUsuariosMostrar.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -115,6 +194,12 @@
     </Compile>
     <Compile Include="modificar_pais.Designer.cs">
       <DependentUpon>modificar_pais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NOTICIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NOTICIA.Designer.cs">
+      <DependentUpon>NOTICIA.cs</DependentUpon>
     </Compile>
     <Compile Include="PaginaPrincipal.cs">
       <SubType>Form</SubType>
@@ -133,6 +218,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>PANAL3DataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Preacciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Preacciones.Designer.cs">
+      <DependentUpon>Preacciones.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reaccion.cs">
@@ -147,11 +238,29 @@
     <Compile Include="React.Designer.cs">
       <DependentUpon>React.cs</DependentUpon>
     </Compile>
+    <Compile Include="ReactComent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReactComent.Designer.cs">
+      <DependentUpon>ReactComent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reactmostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reactmostrar.Designer.cs">
+      <DependentUpon>Reactmostrar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Registro.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Registro.Designer.cs">
       <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.Designer.cs">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
     </Compile>
     <Compile Include="Solicitudes.cs">
       <SubType>Form</SubType>
@@ -159,6 +268,14 @@
     <Compile Include="Solicitudes.Designer.cs">
       <DependentUpon>Solicitudes.cs</DependentUpon>
     </Compile>
+    <Compile Include="SolicitudesMostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SolicitudesMostrar.Designer.cs">
+      <DependentUpon>SolicitudesMostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USUARIO.cs" />
+    <Compile Include="Validacion.cs" />
     <Compile Include="VerPublicacElegida.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -171,11 +288,23 @@
     <EmbeddedResource Include="Amigos.resx">
       <DependentUpon>Amigos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AmigosMostrar.resx">
+      <DependentUpon>AmigosMostrar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AniadirAmigos.resx">
       <DependentUpon>AniadirAmigos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CHAT.resx">
+      <DependentUpon>CHAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comentario.resx">
+      <DependentUpon>Comentario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Comentarios.resx">
       <DependentUpon>Comentarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Creacciones.resx">
+      <DependentUpon>Creacciones.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CrearPublicacion.resx">
       <DependentUpon>CrearPublicacion.cs</DependentUpon>
@@ -183,8 +312,23 @@
     <EmbeddedResource Include="EditarPubl.resx">
       <DependentUpon>EditarPubl.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="EditarUsuario.resx">
+      <DependentUpon>EditarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Eliminar_pais.resx">
       <DependentUpon>Eliminar_pais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnviarCodigo.resx">
+      <DependentUpon>EnviarCodigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMBuscarUsuario.resx">
+      <DependentUpon>FRMBuscarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmElegirChat.resx">
+      <DependentUpon>frmElegirChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMUsuariosMostrar.resx">
+      <DependentUpon>FRMUsuariosMostrar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -192,11 +336,17 @@
     <EmbeddedResource Include="modificar_pais.resx">
       <DependentUpon>modificar_pais.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="NOTICIA.resx">
+      <DependentUpon>NOTICIA.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PaginaPrincipal.resx">
       <DependentUpon>PaginaPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pais.resx">
       <DependentUpon>Pais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Preacciones.resx">
+      <DependentUpon>Preacciones.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -213,11 +363,23 @@
     <EmbeddedResource Include="React.resx">
       <DependentUpon>React.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ReactComent.resx">
+      <DependentUpon>ReactComent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reactmostrar.resx">
+      <DependentUpon>Reactmostrar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Registro.resx">
       <DependentUpon>Registro.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ResetPassword.resx">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Solicitudes.resx">
       <DependentUpon>Solicitudes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SolicitudesMostrar.resx">
+      <DependentUpon>SolicitudesMostrar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VerPublicacElegida.resx">
       <DependentUpon>VerPublicacElegida.cs</DependentUpon>
@@ -233,6 +395,7 @@
     <None Include="PANAL3DataSet.xss">
       <DependentUpon>PANAL3DataSet.xsd</DependentUpon>
     </None>
+    <None Include="panalbase_TemporaryKey.pfx" />
     <None Include="Properties\DataSources\Program.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

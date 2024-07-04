@@ -36,10 +36,14 @@
             // 
             // btnRechazarSoli
             // 
-            this.btnRechazarSoli.BackColor = System.Drawing.Color.Orange;
-            this.btnRechazarSoli.Location = new System.Drawing.Point(68, 67);
+            this.btnRechazarSoli.BackColor = System.Drawing.Color.SaddleBrown;
+            this.btnRechazarSoli.FlatAppearance.BorderSize = 0;
+            this.btnRechazarSoli.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRechazarSoli.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRechazarSoli.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnRechazarSoli.Location = new System.Drawing.Point(143, 12);
             this.btnRechazarSoli.Name = "btnRechazarSoli";
-            this.btnRechazarSoli.Size = new System.Drawing.Size(127, 23);
+            this.btnRechazarSoli.Size = new System.Drawing.Size(119, 46);
             this.btnRechazarSoli.TabIndex = 6;
             this.btnRechazarSoli.Text = "Rechazar solicitud";
             this.btnRechazarSoli.UseVisualStyleBackColor = false;
@@ -47,35 +51,42 @@
             // 
             // btnAceptarSoli
             // 
-            this.btnAceptarSoli.BackColor = System.Drawing.Color.Orange;
-            this.btnAceptarSoli.Location = new System.Drawing.Point(68, 17);
+            this.btnAceptarSoli.BackColor = System.Drawing.Color.SaddleBrown;
+            this.btnAceptarSoli.FlatAppearance.BorderSize = 0;
+            this.btnAceptarSoli.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAceptarSoli.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAceptarSoli.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnAceptarSoli.Location = new System.Drawing.Point(12, 12);
             this.btnAceptarSoli.Name = "btnAceptarSoli";
-            this.btnAceptarSoli.Size = new System.Drawing.Size(127, 23);
+            this.btnAceptarSoli.Size = new System.Drawing.Size(125, 46);
             this.btnAceptarSoli.TabIndex = 5;
             this.btnAceptarSoli.Text = "Aceptar solicitud";
             this.btnAceptarSoli.UseVisualStyleBackColor = false;
-            this.btnAceptarSoli.Click += new System.EventHandler(this.btnAceptarSoli_Click_1);
+            this.btnAceptarSoli.Click += new System.EventHandler(this.btnAceptarSoli_Click);
             // 
             // dGVSoli
             // 
+            this.dGVSoli.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(229)))), ((int)(((byte)(144)))));
             this.dGVSoli.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dGVSoli.Location = new System.Drawing.Point(12, 109);
+            this.dGVSoli.Location = new System.Drawing.Point(12, 64);
             this.dGVSoli.Name = "dGVSoli";
             this.dGVSoli.ReadOnly = true;
-            this.dGVSoli.Size = new System.Drawing.Size(240, 150);
+            this.dGVSoli.Size = new System.Drawing.Size(250, 195);
             this.dGVSoli.TabIndex = 4;
+            this.dGVSoli.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dGVSoli_CellClick);
             // 
             // Solicitudes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Gold;
-            this.ClientSize = new System.Drawing.Size(274, 295);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(196)))), ((int)(((byte)(36)))));
+            this.ClientSize = new System.Drawing.Size(274, 269);
             this.Controls.Add(this.btnRechazarSoli);
             this.Controls.Add(this.btnAceptarSoli);
             this.Controls.Add(this.dGVSoli);
             this.Name = "Solicitudes";
             this.Text = "Solicitudes";
+            this.Load += new System.EventHandler(this.Solicitudes_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dGVSoli)).EndInit();
             this.ResumeLayout(false);
 

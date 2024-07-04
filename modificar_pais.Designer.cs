@@ -42,6 +42,7 @@
             // 
             // dataGridViewmodificar
             // 
+            this.dataGridViewmodificar.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(229)))), ((int)(((byte)(144)))));
             this.dataGridViewmodificar.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewmodificar.Location = new System.Drawing.Point(159, 30);
             this.dataGridViewmodificar.Name = "dataGridViewmodificar";
@@ -122,7 +123,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Gold;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(196)))), ((int)(((byte)(36)))));
             this.ClientSize = new System.Drawing.Size(414, 233);
             this.Controls.Add(this.dataGridViewmodificar);
             this.Controls.Add(this.Baplicar);

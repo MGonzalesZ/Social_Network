@@ -14,14 +14,14 @@ namespace panalbase
     public partial class Reaccion : Form
     {
         //string sConexion = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
-        string sConexion = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
+        //string sConexion = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
 
         private void button1_Click(object sender, EventArgs e)
         {
             string tiporeaccion = textBox2.Text;
             DataTable dt = new DataTable();
 
-            SqlConnection dataConnection = new SqlConnection(sConexion);
+            SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("SPRegistrar_Reaccion", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
             da.SelectCommand.Parameters.Add("@TipoReaccion", SqlDbType.VarChar, (50));
@@ -34,7 +34,7 @@ namespace panalbase
             int idreaccion = int.Parse(textBox1.Text);
             string tiporeaccion = textBox2.Text;
             DataTable dt = new DataTable();
-            SqlConnection dataConnection = new SqlConnection(sConexion);
+            SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("SPModificar_Reaccion", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
             da.SelectCommand.Parameters.Add("@IdReaccion", SqlDbType.Int);
@@ -48,7 +48,7 @@ namespace panalbase
         {
             int idreaccion = int.Parse(textBox1.Text);
             DataTable dt = new DataTable();
-            SqlConnection dataConnection = new SqlConnection(sConexion);
+            SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("SPEliminar_Reaccion", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
             da.SelectCommand.Parameters.Add("@IdReaccion", SqlDbType.Int);
@@ -58,8 +58,9 @@ namespace panalbase
 
         private void button4_Click_1(object sender, EventArgs e)
         {
+            SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
             var consulta = "select TipoReaccion from Reaccion1 where EstadoAuditoria = 0";
-            var adaptador = new SqlDataAdapter(consulta, sConexion);
+            var adaptador = new SqlDataAdapter(consulta, dataConnection);
             var commandBuilder = new SqlCommandBuilder(adaptador);
             var ds = new DataSet();
             adaptador.Fill(ds);

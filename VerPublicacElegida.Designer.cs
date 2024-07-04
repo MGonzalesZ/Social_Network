@@ -40,7 +40,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(40, 32);
+            this.label1.Location = new System.Drawing.Point(14, 14);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(78, 13);
             this.label1.TabIndex = 0;
@@ -49,7 +49,7 @@
             // LabelPublic
             // 
             this.LabelPublic.AutoSize = true;
-            this.LabelPublic.Location = new System.Drawing.Point(45, 67);
+            this.LabelPublic.Location = new System.Drawing.Point(19, 49);
             this.LabelPublic.Name = "LabelPublic";
             this.LabelPublic.Size = new System.Drawing.Size(0, 13);
             this.LabelPublic.TabIndex = 1;
@@ -57,7 +57,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(427, 32);
+            this.label2.Location = new System.Drawing.Point(401, 14);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(40, 13);
             this.label2.TabIndex = 2;
@@ -66,23 +66,29 @@
             // LabelFecha
             // 
             this.LabelFecha.AutoSize = true;
-            this.LabelFecha.Location = new System.Drawing.Point(467, 32);
+            this.LabelFecha.Location = new System.Drawing.Point(441, 14);
             this.LabelFecha.Name = "LabelFecha";
             this.LabelFecha.Size = new System.Drawing.Size(0, 13);
             this.LabelFecha.TabIndex = 3;
             // 
             // pictureBoxPublSel
             // 
-            this.pictureBoxPublSel.Location = new System.Drawing.Point(170, 102);
+            this.pictureBoxPublSel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBoxPublSel.Location = new System.Drawing.Point(12, 39);
             this.pictureBoxPublSel.Name = "pictureBoxPublSel";
-            this.pictureBoxPublSel.Size = new System.Drawing.Size(345, 221);
+            this.pictureBoxPublSel.Size = new System.Drawing.Size(508, 281);
+            this.pictureBoxPublSel.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBoxPublSel.TabIndex = 4;
             this.pictureBoxPublSel.TabStop = false;
             // 
             // btnEditar
             // 
-            this.btnEditar.BackColor = System.Drawing.Color.Orange;
-            this.btnEditar.Location = new System.Drawing.Point(595, 177);
+            this.btnEditar.BackColor = System.Drawing.Color.SaddleBrown;
+            this.btnEditar.FlatAppearance.BorderSize = 0;
+            this.btnEditar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEditar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEditar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnEditar.Location = new System.Drawing.Point(205, 336);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(133, 56);
             this.btnEditar.TabIndex = 5;
@@ -95,7 +101,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gold;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(536, 400);
             this.Controls.Add(this.btnEditar);
             this.Controls.Add(this.pictureBoxPublSel);
             this.Controls.Add(this.LabelFecha);

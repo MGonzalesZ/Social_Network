@@ -37,8 +37,8 @@ namespace panalbase
             Boolean permiso = false;
             //string cadena = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
             //string cadena = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
-            string cadena = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
-            SqlConnection conexion = new SqlConnection(cadena);
+            //string cadena = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
+            SqlConnection conexion = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("PEditarPublicacion", conexion);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
             da.SelectCommand.Parameters.Add("@IdPublicacion", SqlDbType.Int);
@@ -48,8 +48,8 @@ namespace panalbase
             da.SelectCommand.Parameters.Add("@Respuesta", SqlDbType.Bit);
             da.SelectCommand.Parameters.Add("@Mensaje", SqlDbType.NVarChar, 500);
 
-            da.SelectCommand.Parameters["@IdPublicacion"].Value = Program.idPublEditar;
-            da.SelectCommand.Parameters["@IdUsuario"].Value = Program.idUsuarioActual;
+            da.SelectCommand.Parameters["@IdPublicacion"].Value = BaseDeDatos.idPublEditar;
+            da.SelectCommand.Parameters["@IdUsuario"].Value = BaseDeDatos.usuarioActual.idUsuario;
             da.SelectCommand.Parameters["@Descripcion"].Value = txtEditarTexto.Text;
             System.IO.MemoryStream ms = new System.IO.MemoryStream();
 
@@ -78,6 +78,7 @@ namespace panalbase
                 
             }
             Program.CrearPubl.refrescarDataGrid();
+            Program.Principal.refrescarGranPanel();
             conexion.Close();
             Program.ver11.LabelPublic.Text = txtEditarTexto.Text;
             Program.ver11.pictureBoxPublSel.Image = pbEdicImag.Image;
@@ -92,6 +93,31 @@ namespace panalbase
             txtEditarTexto.Text = "";
             pbEdicImag.Image = null;
             
+        }
+
+        private void pbEdicImag_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lRuta2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtEditarTexto_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

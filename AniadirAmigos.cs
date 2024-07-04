@@ -30,13 +30,13 @@ namespace panalbase
         {
             dGVUsuarios.DataSource = BuscarUsuarios();
             dGVUsuarios.Columns[0].Visible = false;
+            idUsuario = 0;
         }
         private void btnEnviarSoli_Click(object sender, EventArgs e)
         {
             try
             {
                 EnviarSoli();
-                MessageBox.Show("Solicitud enviada");
             }
             catch
             {
@@ -64,7 +64,7 @@ namespace panalbase
         {
             DataTable dt = new DataTable();
             System.Data.SqlClient.SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
-            SqlDataAdapter da = new SqlDataAdapter("SPMostrar_buscarUsuarios", dataConnection);
+            SqlDataAdapter da = new SqlDataAdapter("SPMostrar_UsuariosBuscar", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
 
             da.SelectCommand.Parameters.Add("@Nombre", SqlDbType.NVarChar);
@@ -77,36 +77,20 @@ namespace panalbase
         {
             DataTable dt = new DataTable();
             System.Data.SqlClient.SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
-            SqlDataAdapter da = new SqlDataAdapter("SPRegistrar_EnvioSolicitud", dataConnection);
+            SqlDataAdapter da = new SqlDataAdapter("SPRegistrar_SolicitudEnvio", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
 
             da.SelectCommand.Parameters.Add("@IdUsuario", SqlDbType.Int);
             da.SelectCommand.Parameters.Add("@IdUsuario2", SqlDbType.Int);
+            da.SelectCommand.Parameters.Add("@Mensaje", SqlDbType.NVarChar, 100);
 
-            da.SelectCommand.Parameters["@IdUsuario"].Value = 1; //Este será el id del usuario actual
+            da.SelectCommand.Parameters["@IdUsuario"].Value = BaseDeDatos.usuarioActual.idUsuario;
             da.SelectCommand.Parameters["@IdUsuario2"].Value = dGVUsuarios.Rows[idUsuario].Cells[0].Value;
+            da.SelectCommand.Parameters["@Mensaje"].Direction = ParameterDirection.Output;
 
             da.Fill(dt);
-        }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tBBuscarUsuarios_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dGVUsuarios_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
+            MessageBox.Show(Convert.ToString(da.SelectCommand.Parameters["@Mensaje"].Value));
         }
     }
 }

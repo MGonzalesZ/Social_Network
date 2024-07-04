@@ -161,3 +161,1088 @@ C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.csproj.G
 C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
 C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.exe
 C:\Users\WINDOWS 8.1\Source\Repos\El_Nuevo_panal_v1\obj\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\bin\Debug\panalbase.exe.config
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\bin\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\bin\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Amigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Comentarios.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Login.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Reaccion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.React.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Registro.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v2\obj\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\bin\Debug\panalbase.exe.config
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\bin\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\bin\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Amigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Comentarios.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Login.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Reaccion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.React.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Registro.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v3\obj\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\bin\Debug\panalbase.exe.config
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\bin\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\bin\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Amigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Comentarios.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Login.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Reaccion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.React.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Registro.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v5\obj\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\bin\Debug\panalbase.exe.config
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\bin\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\bin\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Amigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Comentarios.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Login.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Reaccion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.React.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Registro.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v6\obj\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\bin\Debug\panalbase.exe.config
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\bin\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\bin\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Amigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Comentarios.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Login.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Reaccion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.React.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Registro.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v7\obj\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.exe.config
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.pdb
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Amigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Comentarios.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Login.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Pais.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Reaccion.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.React.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Registro.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.exe
+C:\Users\WINDOWS 8.1\source\repos\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\proyecto\El_Nuevo_panal_prueba_v8\obj\Debug\panalbase.pdb
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\bin\Debug\panalbase.exe.config
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\bin\Debug\panalbase.exe
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\bin\Debug\panalbase.pdb
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Amigos.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Comentario.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Comentarios.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Login.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Pais.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Reaccion.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.React.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Registro.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.exe
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.9.9\El_Nuevo_panal_prueba_v8.9\obj\Debug\panalbase.pdb
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\bin\Debug\panalbase.exe.config
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\bin\Debug\panalbase.exe
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\bin\Debug\panalbase.pdb
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.csproj.AssemblyReference.cache
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Activar_edicion_pais.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Amigos.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.AniadirAmigos.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Comentario.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Comentarios.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.CrearPublicacion.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.EditarPubl.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Eliminar_pais.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.FRMBuscarUsuario.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Login.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.modificar_pais.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.PaginaPrincipal.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Pais.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Properties.Resources.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Reaccion.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.React.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Registro.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Solicitudes.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.VerPublicacElegida.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.csproj.GenerateResource.cache
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.exe
+E:\Escritorio\El_Nuevo_panal_prueba_v8.11\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.pdb
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\bin\Debug\panalbase.exe.config
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\bin\Debug\panalbase.exe
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\bin\Debug\panalbase.pdb
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Amigos.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Comentario.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Comentarios.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Login.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Pais.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Reaccion.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.React.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Registro.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.exe
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.pdb
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\alfre\source\repos\SEMESTRE 3\PROYECTO\El_Nuevo_panal_prueba_v8.12\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.AssemblyReference.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.AssemblyReference.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.23\El_Nuevo_panal_prueba_v8.17\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+E:\Escritorio\ç\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.manifest
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.application
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe.manifest
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.application
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.manifest
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.application
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe.manifest
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.application
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EnviarCodigo.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ResetPassword.resources
+C:\Users\mauri\OneDrive\Escritorio\El_Nuevo_panal_prueba_v8.16\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EnviarCodigo.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ResetPassword.resources
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.manifest
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.application
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe.manifest
+C:\Users\FERMIN\Desktop\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.application
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.manifest
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.application
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.AssemblyReference.cache
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EnviarCodigo.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ResetPassword.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe.manifest
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.application
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+E:\Descargas\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.config
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe.manifest
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.application
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.exe
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\panalbase.pdb
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.AssemblyReference.cache
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Activar_edicion_pais.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Amigos.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AmigosMostrar.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.AniadirAmigos.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CHAT.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentario.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Comentarios.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Creacciones.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.CrearPublicacion.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EditarPubl.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Eliminar_pais.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.EnviarCodigo.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMBuscarUsuario.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.frmElegirChat.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Login.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.modificar_pais.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.PaginaPrincipal.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Pais.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Preacciones.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Properties.Resources.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reaccion.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.React.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ReactComent.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Reactmostrar.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Registro.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.ResetPassword.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.Solicitudes.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.SolicitudesMostrar.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.VerPublicacElegida.resources
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.GenerateResource.cache
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe.manifest
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.application
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.csproj.CopyComplete
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.exe
+E:\Escritorio\El_Nuevo_panal_prueba_v8.15\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe.manifest
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.application
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.CHAT.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Creacciones.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.EnviarCodigo.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.frmElegirChat.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Preacciones.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.ReactComent.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Reactmostrar.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.ResetPassword.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.exe.manifest
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.application
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.CopyComplete
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\ips\ip posible funcional\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe.config
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe.manifest
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.application
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.AssemblyReference.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Activar_edicion_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Amigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.AmigosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.AniadirAmigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.CHAT.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Comentario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Comentarios.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Creacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.CrearPublicacion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.EditarPubl.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Eliminar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.EnviarCodigo.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.FRMBuscarUsuario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.frmElegirChat.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Login.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.modificar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.PaginaPrincipal.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Preacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Properties.Resources.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Reaccion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.React.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.ReactComent.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Reactmostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Registro.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.ResetPassword.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Solicitudes.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.SolicitudesMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.VerPublicacElegida.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.GenerateResource.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.exe.manifest
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.application
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.CopyComplete
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.37\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe.manifest
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.application
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.CHAT.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Creacciones.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.EnviarCodigo.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.frmElegirChat.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Preacciones.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.ReactComent.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Reactmostrar.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.ResetPassword.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.exe.manifest
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.application
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.csproj.CopyComplete
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\ips\ip m\El_Nuevo_panal_prueba_v8.37\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe.config
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe.manifest
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.application
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.AssemblyReference.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Activar_edicion_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Amigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.AmigosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.AniadirAmigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.CHAT.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Comentario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Comentarios.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Creacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.CrearPublicacion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.EditarPubl.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Eliminar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.EnviarCodigo.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.FRMBuscarUsuario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.frmElegirChat.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Login.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.modificar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.PaginaPrincipal.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Preacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Properties.Resources.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Reaccion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.React.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.ReactComent.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Reactmostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Registro.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.ResetPassword.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Solicitudes.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.SolicitudesMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.VerPublicacElegida.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.GenerateResource.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.exe.manifest
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.application
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.CopyComplete
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.40\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe.config
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe.manifest
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.application
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.AssemblyReference.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Activar_edicion_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Amigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.AmigosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.AniadirAmigos.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.CHAT.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Comentario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Comentarios.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Creacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.CrearPublicacion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.EditarPubl.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Eliminar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.EnviarCodigo.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.FRMBuscarUsuario.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.frmElegirChat.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Login.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.modificar_pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.PaginaPrincipal.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Pais.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Preacciones.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Properties.Resources.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Reaccion.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.React.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.ReactComent.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Reactmostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Registro.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.ResetPassword.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Solicitudes.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.SolicitudesMostrar.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.VerPublicacElegida.resources
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.GenerateResource.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.exe.manifest
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.application
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.CopyComplete
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.exe
+D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.pdb
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe.config
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe.manifest
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.application
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.exe
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\panalbase.pdb
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Amigos.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.CHAT.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Comentario.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Comentarios.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Creacciones.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.EditarUsuario.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.EnviarCodigo.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.frmElegirChat.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Login.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Pais.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Preacciones.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Reaccion.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.React.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.ReactComent.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Reactmostrar.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Registro.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.ResetPassword.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.exe.manifest
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.application
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.csproj.CopyComplete
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.exe
+C:\Users\mauri\OneDrive\Escritorio\p\El_Nuevo_panal_prueba_v8.41\El_Nuevo_panal_prueba_v8.40\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.exe.config
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.exe.manifest
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.application
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.AssemblyReference.cache
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Activar_edicion_pais.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Amigos.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.AmigosMostrar.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.AniadirAmigos.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.CHAT.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Comentario.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Comentarios.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Creacciones.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.CrearPublicacion.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.EditarPubl.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.EditarUsuario.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Eliminar_pais.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.EnviarCodigo.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.FRMBuscarUsuario.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.frmElegirChat.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Login.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.modificar_pais.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.PaginaPrincipal.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Pais.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Preacciones.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Properties.Resources.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Reaccion.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.React.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.ReactComent.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Reactmostrar.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Registro.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.ResetPassword.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Solicitudes.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.SolicitudesMostrar.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.VerPublicacElegida.resources
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.GenerateResource.cache
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.exe.manifest
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.application
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.CopyComplete
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.exe
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.pdb
+C:\Users\FERMIN\Desktop\ips\El_Nuevo_panal_prueba_v8.45\El_Nuevo_panal_prueba_v8.46\bin\Debug\Guna.UI2.dll
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.AssemblyReference.cache
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.SuggestedBindingRedirects.cache
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Activar_edicion_pais.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Amigos.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.AmigosMostrar.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.AniadirAmigos.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.CHAT.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Comentario.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Comentarios.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Creacciones.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.CrearPublicacion.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.EditarPubl.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.EditarUsuario.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Eliminar_pais.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.EnviarCodigo.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.FRMBuscarUsuario.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.frmElegirChat.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.FRMUsuariosMostrar.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Login.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.modificar_pais.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\Prueba_de_panel_de_noticias.NOTICIA.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.PaginaPrincipal.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Pais.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Preacciones.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Properties.Resources.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Reaccion.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.React.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.ReactComent.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Reactmostrar.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Registro.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.ResetPassword.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.Solicitudes.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.SolicitudesMostrar.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.VerPublicacElegida.resources
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.GenerateResource.cache
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.CoreCompileInputs.cache
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.exe
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.pdb
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.exe.config
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.exe.manifest
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.application
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.exe
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\bin\Debug\panalbase.pdb
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.exe.manifest
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.application
+K:\2022Sistemas22\8VO SEMESTRE\Projects\El_Nuevo_panal_prueba_v8.46\El_Nuevo_panal_prueba_v8.46\obj\Debug\panalbase.csproj.CopyComplete

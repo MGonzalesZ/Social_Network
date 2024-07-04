@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace panalbase
 {
 
@@ -38,6 +39,7 @@ namespace panalbase
                 MessageBox.Show("Seleccione un registro válido");
             }
             MostrarSolicitudes();
+            idAmigos = 0;
         }
         private void btnRechazarSoli_Click(object sender, EventArgs e)
         {
@@ -51,6 +53,7 @@ namespace panalbase
                 MessageBox.Show("Seleccione un registro válido");
             }
             MostrarSolicitudes();
+            idAmigos = 0;
         }
         //almacena el numero de fila en el que hacemos click
         private void dGVSoli_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -70,6 +73,10 @@ namespace panalbase
             SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("SPMostrar_Solicitudes", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
+
+            da.SelectCommand.Parameters.Add("@IdUsuario", SqlDbType.Int);
+
+            da.SelectCommand.Parameters["@IdUsuario"].Value = BaseDeDatos.usuarioActual.idUsuario;
 
             da.Fill(dt);
             return dt;
@@ -100,15 +107,6 @@ namespace panalbase
 
             da.Fill(dt);
         }
-
-        private void dGVSoli_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void btnAceptarSoli_Click_1(object sender, EventArgs e)
-        {
-
-        }
     }
 }
+

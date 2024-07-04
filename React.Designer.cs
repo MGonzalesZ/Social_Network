@@ -51,7 +51,9 @@
             // 
             // txtInsertar
             // 
-            this.txtInsertar.BackColor = System.Drawing.Color.Orange;
+            this.txtInsertar.BackColor = System.Drawing.Color.SaddleBrown;
+            this.txtInsertar.FlatAppearance.BorderColor = System.Drawing.Color.SaddleBrown;
+            this.txtInsertar.ForeColor = System.Drawing.Color.White;
             this.txtInsertar.Location = new System.Drawing.Point(428, 23);
             this.txtInsertar.Name = "txtInsertar";
             this.txtInsertar.Size = new System.Drawing.Size(94, 37);
@@ -62,7 +64,9 @@
             // 
             // txtModificar
             // 
-            this.txtModificar.BackColor = System.Drawing.Color.Orange;
+            this.txtModificar.BackColor = System.Drawing.Color.SaddleBrown;
+            this.txtModificar.FlatAppearance.BorderColor = System.Drawing.Color.SaddleBrown;
+            this.txtModificar.ForeColor = System.Drawing.Color.White;
             this.txtModificar.Location = new System.Drawing.Point(428, 64);
             this.txtModificar.Name = "txtModificar";
             this.txtModificar.Size = new System.Drawing.Size(94, 37);
@@ -73,7 +77,9 @@
             // 
             // txtEliminar
             // 
-            this.txtEliminar.BackColor = System.Drawing.Color.Orange;
+            this.txtEliminar.BackColor = System.Drawing.Color.SaddleBrown;
+            this.txtEliminar.FlatAppearance.BorderColor = System.Drawing.Color.SaddleBrown;
+            this.txtEliminar.ForeColor = System.Drawing.Color.White;
             this.txtEliminar.Location = new System.Drawing.Point(428, 106);
             this.txtEliminar.Name = "txtEliminar";
             this.txtEliminar.Size = new System.Drawing.Size(94, 37);
@@ -98,10 +104,11 @@
             // 
             // button4
             // 
-            this.button4.BackColor = System.Drawing.Color.Orange;
+            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(189)))), ((int)(((byte)(137)))), ((int)(((byte)(48)))));
+            this.button4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button4.Location = new System.Drawing.Point(244, 403);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
+            this.button4.Size = new System.Drawing.Size(82, 35);
             this.button4.TabIndex = 6;
             this.button4.Text = "Volver";
             this.button4.UseVisualStyleBackColor = false;
@@ -109,7 +116,9 @@
             // 
             // txtActualizar
             // 
-            this.txtActualizar.BackColor = System.Drawing.Color.Orange;
+            this.txtActualizar.BackColor = System.Drawing.Color.SaddleBrown;
+            this.txtActualizar.FlatAppearance.BorderColor = System.Drawing.Color.SaddleBrown;
+            this.txtActualizar.ForeColor = System.Drawing.Color.White;
             this.txtActualizar.Location = new System.Drawing.Point(428, 153);
             this.txtActualizar.Name = "txtActualizar";
             this.txtActualizar.Size = new System.Drawing.Size(94, 37);
@@ -134,13 +143,13 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(106, 13);
             this.label2.TabIndex = 9;
-            this.label2.Text = "Introdusca el nombre";
+            this.label2.Text = "Introduzca el nombre";
             // 
             // React
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Gold;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(196)))), ((int)(((byte)(36)))));
             this.ClientSize = new System.Drawing.Size(549, 450);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);

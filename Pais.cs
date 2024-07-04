@@ -13,7 +13,7 @@ namespace panalbase
 {
     public partial class Pais : Form
     {
-        string sConexion = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
+        //string sConexion = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
         public Pais()
         {
             InitializeComponent();
@@ -22,7 +22,7 @@ namespace panalbase
         private void Baniadirpais_Click(object sender, EventArgs e)
         {
             DataTable dt = new DataTable();
-            SqlConnection dataConnection = new SqlConnection(sConexion);
+            SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("SP_REGISTRARPAIS", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
             da.SelectCommand.Parameters.Add("@NOMBREPAIS", SqlDbType.NVarChar, 50);

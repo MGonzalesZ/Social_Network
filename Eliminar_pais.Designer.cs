@@ -38,20 +38,21 @@
             // 
             // DTGVeliminarusuario
             // 
+            this.DTGVeliminarusuario.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(229)))), ((int)(((byte)(144)))));
             this.DTGVeliminarusuario.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DTGVeliminarusuario.Location = new System.Drawing.Point(12, 12);
             this.DTGVeliminarusuario.Name = "DTGVeliminarusuario";
-            this.DTGVeliminarusuario.Size = new System.Drawing.Size(240, 150);
+            this.DTGVeliminarusuario.Size = new System.Drawing.Size(247, 150);
             this.DTGVeliminarusuario.TabIndex = 10;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(50, 165);
+            this.label1.Location = new System.Drawing.Point(92, 181);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(83, 13);
+            this.label1.Size = new System.Drawing.Size(86, 13);
             this.label1.TabIndex = 9;
-            this.label1.Text = "seleccionar pais";
+            this.label1.Text = "Seleccionar Pais";
             // 
             // Beliminar
             // 
@@ -60,7 +61,7 @@
             this.Beliminar.Name = "Beliminar";
             this.Beliminar.Size = new System.Drawing.Size(75, 23);
             this.Beliminar.TabIndex = 8;
-            this.Beliminar.Text = "eliminar";
+            this.Beliminar.Text = "Eliminar";
             this.Beliminar.UseVisualStyleBackColor = false;
             this.Beliminar.Click += new System.EventHandler(this.Beliminar_Click);
             // 
@@ -71,12 +72,12 @@
             this.Bregresar.Name = "Bregresar";
             this.Bregresar.Size = new System.Drawing.Size(75, 23);
             this.Bregresar.TabIndex = 7;
-            this.Bregresar.Text = "regresar";
+            this.Bregresar.Text = "Regresar";
             this.Bregresar.UseVisualStyleBackColor = false;
             // 
             // TBseleccionarpais
             // 
-            this.TBseleccionarpais.Location = new System.Drawing.Point(53, 181);
+            this.TBseleccionarpais.Location = new System.Drawing.Point(75, 197);
             this.TBseleccionarpais.Name = "TBseleccionarpais";
             this.TBseleccionarpais.Size = new System.Drawing.Size(120, 20);
             this.TBseleccionarpais.TabIndex = 6;

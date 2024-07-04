@@ -15,13 +15,14 @@ namespace panalbase
     {
 
         //string sConexion = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
-        string sConexion = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
+        //string sConexion = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
 
         public modificar_pais()
         {
             InitializeComponent();
+            SqlConnection conn = new SqlConnection(BaseDeDatos.EnlaceConexion);
             string ConsultatablaUSUARIO = "select Idpais,NombrePais,CodigoTelfPais from PAIS";
-            SqlDataAdapter da = new SqlDataAdapter(ConsultatablaUSUARIO, sConexion);
+            SqlDataAdapter da = new SqlDataAdapter(ConsultatablaUSUARIO, conn);
             DataTable dt = new DataTable();
             da.Fill(dt);
             dataGridViewmodificar.DataSource = dt;
@@ -32,7 +33,7 @@ namespace panalbase
             DataTable dt = new DataTable();
 
 
-            SqlConnection dataConnection = new SqlConnection(sConexion);
+            SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("SP_EDITARPAIS", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
 

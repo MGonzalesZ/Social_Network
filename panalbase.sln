@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "panalbase", "panalbase.csproj", "{DA817A86-78E2-4E76-8303-2408A487CC7C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsLibraryNOTICIAS", "D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\Prueba de panel de noticias v1\Prueba de panel de noticias\WinFormsLibraryNOTICIAS\WinFormsLibraryNOTICIAS.csproj", "{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DA817A86-78E2-4E76-8303-2408A487CC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA817A86-78E2-4E76-8303-2408A487CC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA817A86-78E2-4E76-8303-2408A487CC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

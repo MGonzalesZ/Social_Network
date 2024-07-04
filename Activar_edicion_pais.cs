@@ -13,7 +13,7 @@ namespace panalbase
 {
     public partial class Activar_edicion_pais : Form
     {
-        string sConexion = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
+        //string sConexion = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
         //string sConexion = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
         public Activar_edicion_pais()
         {
@@ -25,7 +25,7 @@ namespace panalbase
             DataTable dt = new DataTable();
             
 
-            SqlConnection dataConnection = new SqlConnection(sConexion);
+            SqlConnection dataConnection = new SqlConnection(BaseDeDatos.EnlaceConexion);
             SqlDataAdapter da = new SqlDataAdapter("SP_login", dataConnection);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
 
@@ -62,6 +62,11 @@ namespace panalbase
             Pais regresar = new Pais();
             regresar.Show();
             this.Close();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Prueba_de_panel_de_noticias;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -34,8 +35,8 @@ namespace panalbase
             da.SelectCommand.Parameters.Add("@Respuesta", SqlDbType.Bit);
             da.SelectCommand.Parameters.Add("@Mensaje", SqlDbType.NVarChar,500);
 
-            da.SelectCommand.Parameters["@IdUsuario"].Value = Program.idUsuarioActual;
-            da.SelectCommand.Parameters["@Descripcion"].Value = txtTituloPubl.Text+" // "+txtPubl.Text;
+            da.SelectCommand.Parameters["@IdUsuario"].Value = BaseDeDatos.usuarioActual.idUsuario;
+            da.SelectCommand.Parameters["@Descripcion"].Value = txtPubl.Text;
             System.IO.MemoryStream ms = new System.IO.MemoryStream();
             
             if (pbImagPubl.Image == null)
@@ -63,20 +64,24 @@ namespace panalbase
                 limpiarPublicacion();
             }
             refrescarDataGrid();
+            Program.Principal.refrescarGranPanel();
             conexion.Close();
 
         }
 
+        
+
         public void refrescarDataGrid()
         {
+            /*
             //string cadena = "Data Source=servidorpanal.database.windows.net;Initial Catalog=BDPanal;User ID=adminPanal;Password=Panal-123";
-            string cadena = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
-            SqlConnection conexion = new SqlConnection(cadena);
-            SqlDataAdapter da = new SqlDataAdapter("PConsultarPublicaciones", conexion);
+            //string cadena = "Data Source=WINDOWS;Initial Catalog=DBPANAL;Integrated Security=True";
+            SqlConnection conexion = new SqlConnection(BaseDeDatos.EnlaceConexion);
+            SqlDataAdapter da = new SqlDataAdapter("PConsultarPublicaciones22", conexion);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
             da.SelectCommand.Parameters.Add("@IdUsuario", SqlDbType.Int);
 
-            da.SelectCommand.Parameters["@IdUsuario"].Value = Program.idUsuarioActual;
+            da.SelectCommand.Parameters["@IdUsuario"].Value = BaseDeDatos.usuarioActual.idUsuario;
 
             conexion.Open();
             da.SelectCommand.ExecuteNonQuery();
@@ -84,12 +89,13 @@ namespace panalbase
             da.Fill(Program.dt);
             Program.Principal.iniciarDatos();
             conexion.Close();
+            */
         }
 
         private void limpiarPublicacion()
         {
             txtPubl.Text = "";
-            txtTituloPubl.Text = "";
+            //txtTituloPubl.Text = "";
             pbImagPubl.Image=null;
             labelRuta.Text = "";
         }
