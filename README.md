@@ -35,6 +35,6 @@ Once you've done, you can see your post on your profile
 
    <img src="https://github.com/MGonzalesZ/Social_Network/blob/master/resources/7.JPG" alt="Descripción de la imagen" width="400"/>  
 
-You can also look for new friens by clicking on "Buscar Usuario"  
+You can also look for new friends by clicking on "Buscar Usuario"  
 
    <img src="https://github.com/MGonzalesZ/Social_Network/blob/master/resources/8.JPG" alt="Descripción de la imagen" width="400"/>  
