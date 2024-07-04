@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace panalbase {
+namespace panalbase.Forms {
     
     
     /// <summary>
@@ -2196,7 +2196,7 @@ namespace panalbase {
         }
     }
 }
-namespace panalbase.PANAL3DataSetTableAdapters {
+namespace panalbase.Forms.PANAL3DataSetTableAdapters {
     
     
     /// <summary>

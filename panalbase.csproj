@@ -86,266 +86,266 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Activar_edicion_pais.cs">
+    <Compile Include="Forms\Activar_edicion_pais.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Activar_edicion_pais.Designer.cs">
+    <Compile Include="Forms\Activar_edicion_pais.Designer.cs">
       <DependentUpon>Activar_edicion_pais.cs</DependentUpon>
     </Compile>
-    <Compile Include="Amigos.cs">
+    <Compile Include="Forms\Amigos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Amigos.Designer.cs">
+    <Compile Include="Forms\Amigos.Designer.cs">
       <DependentUpon>Amigos.cs</DependentUpon>
     </Compile>
-    <Compile Include="AmigosMostrar.cs">
+    <Compile Include="Forms\AmigosMostrar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AmigosMostrar.Designer.cs">
+    <Compile Include="Forms\AmigosMostrar.Designer.cs">
       <DependentUpon>AmigosMostrar.cs</DependentUpon>
     </Compile>
-    <Compile Include="AniadirAmigos.cs">
+    <Compile Include="Forms\AniadirAmigos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AniadirAmigos.Designer.cs">
+    <Compile Include="Forms\AniadirAmigos.Designer.cs">
       <DependentUpon>AniadirAmigos.cs</DependentUpon>
     </Compile>
     <Compile Include="BaseDeDatos.cs" />
-    <Compile Include="CHAT.cs">
+    <Compile Include="Forms\CHAT.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CHAT.Designer.cs">
+    <Compile Include="Forms\CHAT.Designer.cs">
       <DependentUpon>CHAT.cs</DependentUpon>
     </Compile>
-    <Compile Include="Comentario.cs">
+    <Compile Include="Forms\Comentario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Comentario.Designer.cs">
+    <Compile Include="Forms\Comentario.Designer.cs">
       <DependentUpon>Comentario.cs</DependentUpon>
     </Compile>
-    <Compile Include="Comentarios.cs">
+    <Compile Include="Forms\Comentarios.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Comentarios.Designer.cs">
+    <Compile Include="Forms\Comentarios.Designer.cs">
       <DependentUpon>Comentarios.cs</DependentUpon>
     </Compile>
-    <Compile Include="Creacciones.cs">
+    <Compile Include="Forms\Creacciones.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Creacciones.Designer.cs">
+    <Compile Include="Forms\Creacciones.Designer.cs">
       <DependentUpon>Creacciones.cs</DependentUpon>
     </Compile>
-    <Compile Include="CrearPublicacion.cs">
+    <Compile Include="Forms\CrearPublicacion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CrearPublicacion.Designer.cs">
+    <Compile Include="Forms\CrearPublicacion.Designer.cs">
       <DependentUpon>CrearPublicacion.cs</DependentUpon>
     </Compile>
-    <Compile Include="EditarPubl.cs">
+    <Compile Include="Forms\EditarPubl.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EditarPubl.Designer.cs">
+    <Compile Include="Forms\EditarPubl.Designer.cs">
       <DependentUpon>EditarPubl.cs</DependentUpon>
     </Compile>
-    <Compile Include="EditarUsuario.cs">
+    <Compile Include="Forms\EditarUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EditarUsuario.Designer.cs">
+    <Compile Include="Forms\EditarUsuario.Designer.cs">
       <DependentUpon>EditarUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="Eliminar_pais.cs">
+    <Compile Include="Forms\Eliminar_pais.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Eliminar_pais.Designer.cs">
+    <Compile Include="Forms\Eliminar_pais.Designer.cs">
       <DependentUpon>Eliminar_pais.cs</DependentUpon>
     </Compile>
-    <Compile Include="EnviarCodigo.cs">
+    <Compile Include="Forms\EnviarCodigo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EnviarCodigo.Designer.cs">
+    <Compile Include="Forms\EnviarCodigo.Designer.cs">
       <DependentUpon>EnviarCodigo.cs</DependentUpon>
     </Compile>
-    <Compile Include="FRMBuscarUsuario.cs">
+    <Compile Include="Forms\FRMBuscarUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FRMBuscarUsuario.Designer.cs">
+    <Compile Include="Forms\FRMBuscarUsuario.Designer.cs">
       <DependentUpon>FRMBuscarUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmElegirChat.cs">
+    <Compile Include="Forms\frmElegirChat.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmElegirChat.Designer.cs">
+    <Compile Include="Forms\frmElegirChat.Designer.cs">
       <DependentUpon>frmElegirChat.cs</DependentUpon>
     </Compile>
-    <Compile Include="FRMUsuariosMostrar.cs">
+    <Compile Include="Forms\FRMUsuariosMostrar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FRMUsuariosMostrar.Designer.cs">
+    <Compile Include="Forms\FRMUsuariosMostrar.Designer.cs">
       <DependentUpon>FRMUsuariosMostrar.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login.cs">
+    <Compile Include="Forms\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login.Designer.cs">
+    <Compile Include="Forms\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="modificar_pais.cs">
+    <Compile Include="Forms\modificar_pais.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="modificar_pais.Designer.cs">
+    <Compile Include="Forms\modificar_pais.Designer.cs">
       <DependentUpon>modificar_pais.cs</DependentUpon>
     </Compile>
-    <Compile Include="NOTICIA.cs">
+    <Compile Include="Forms\NOTICIA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NOTICIA.Designer.cs">
+    <Compile Include="Forms\NOTICIA.Designer.cs">
       <DependentUpon>NOTICIA.cs</DependentUpon>
     </Compile>
-    <Compile Include="PaginaPrincipal.cs">
+    <Compile Include="Forms\PaginaPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PaginaPrincipal.Designer.cs">
+    <Compile Include="Forms\PaginaPrincipal.Designer.cs">
       <DependentUpon>PaginaPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Pais.cs">
+    <Compile Include="Forms\Pais.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Pais.Designer.cs">
+    <Compile Include="Forms\Pais.Designer.cs">
       <DependentUpon>Pais.cs</DependentUpon>
     </Compile>
-    <Compile Include="PANAL3DataSet.Designer.cs">
+    <Compile Include="Forms\PANAL3DataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>PANAL3DataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="Preacciones.cs">
+    <Compile Include="Forms\Preacciones.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Preacciones.Designer.cs">
+    <Compile Include="Forms\Preacciones.Designer.cs">
       <DependentUpon>Preacciones.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="Forms\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Reaccion.cs">
+    <Compile Include="Forms\Reaccion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Reaccion.Designer.cs">
+    <Compile Include="Forms\Reaccion.Designer.cs">
       <DependentUpon>Reaccion.cs</DependentUpon>
     </Compile>
-    <Compile Include="React.cs">
+    <Compile Include="Forms\React.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="React.Designer.cs">
+    <Compile Include="Forms\React.Designer.cs">
       <DependentUpon>React.cs</DependentUpon>
     </Compile>
-    <Compile Include="ReactComent.cs">
+    <Compile Include="Forms\ReactComent.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ReactComent.Designer.cs">
+    <Compile Include="Forms\ReactComent.Designer.cs">
       <DependentUpon>ReactComent.cs</DependentUpon>
     </Compile>
-    <Compile Include="Reactmostrar.cs">
+    <Compile Include="Forms\Reactmostrar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Reactmostrar.Designer.cs">
+    <Compile Include="Forms\Reactmostrar.Designer.cs">
       <DependentUpon>Reactmostrar.cs</DependentUpon>
     </Compile>
-    <Compile Include="Registro.cs">
+    <Compile Include="Forms\Registro.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Registro.Designer.cs">
+    <Compile Include="Forms\Registro.Designer.cs">
       <DependentUpon>Registro.cs</DependentUpon>
     </Compile>
-    <Compile Include="ResetPassword.cs">
+    <Compile Include="Forms\ResetPassword.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ResetPassword.Designer.cs">
+    <Compile Include="Forms\ResetPassword.Designer.cs">
       <DependentUpon>ResetPassword.cs</DependentUpon>
     </Compile>
-    <Compile Include="Solicitudes.cs">
+    <Compile Include="Forms\Solicitudes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Solicitudes.Designer.cs">
+    <Compile Include="Forms\Solicitudes.Designer.cs">
       <DependentUpon>Solicitudes.cs</DependentUpon>
     </Compile>
-    <Compile Include="SolicitudesMostrar.cs">
+    <Compile Include="Forms\SolicitudesMostrar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SolicitudesMostrar.Designer.cs">
+    <Compile Include="Forms\SolicitudesMostrar.Designer.cs">
       <DependentUpon>SolicitudesMostrar.cs</DependentUpon>
     </Compile>
-    <Compile Include="USUARIO.cs" />
-    <Compile Include="Validacion.cs" />
-    <Compile Include="VerPublicacElegida.cs">
+    <Compile Include="Forms\USUARIO.cs" />
+    <Compile Include="Forms\Validacion.cs" />
+    <Compile Include="Forms\VerPublicacElegida.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VerPublicacElegida.Designer.cs">
+    <Compile Include="Forms\VerPublicacElegida.Designer.cs">
       <DependentUpon>VerPublicacElegida.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Activar_edicion_pais.resx">
+    <EmbeddedResource Include="Forms\Activar_edicion_pais.resx">
       <DependentUpon>Activar_edicion_pais.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Amigos.resx">
+    <EmbeddedResource Include="Forms\Amigos.resx">
       <DependentUpon>Amigos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AmigosMostrar.resx">
+    <EmbeddedResource Include="Forms\AmigosMostrar.resx">
       <DependentUpon>AmigosMostrar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AniadirAmigos.resx">
+    <EmbeddedResource Include="Forms\AniadirAmigos.resx">
       <DependentUpon>AniadirAmigos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="CHAT.resx">
+    <EmbeddedResource Include="Forms\CHAT.resx">
       <DependentUpon>CHAT.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Comentario.resx">
+    <EmbeddedResource Include="Forms\Comentario.resx">
       <DependentUpon>Comentario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Comentarios.resx">
+    <EmbeddedResource Include="Forms\Comentarios.resx">
       <DependentUpon>Comentarios.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Creacciones.resx">
+    <EmbeddedResource Include="Forms\Creacciones.resx">
       <DependentUpon>Creacciones.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="CrearPublicacion.resx">
+    <EmbeddedResource Include="Forms\CrearPublicacion.resx">
       <DependentUpon>CrearPublicacion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="EditarPubl.resx">
+    <EmbeddedResource Include="Forms\EditarPubl.resx">
       <DependentUpon>EditarPubl.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="EditarUsuario.resx">
+    <EmbeddedResource Include="Forms\EditarUsuario.resx">
       <DependentUpon>EditarUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Eliminar_pais.resx">
+    <EmbeddedResource Include="Forms\Eliminar_pais.resx">
       <DependentUpon>Eliminar_pais.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="EnviarCodigo.resx">
+    <EmbeddedResource Include="Forms\EnviarCodigo.resx">
       <DependentUpon>EnviarCodigo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FRMBuscarUsuario.resx">
+    <EmbeddedResource Include="Forms\FRMBuscarUsuario.resx">
       <DependentUpon>FRMBuscarUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmElegirChat.resx">
+    <EmbeddedResource Include="Forms\frmElegirChat.resx">
       <DependentUpon>frmElegirChat.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FRMUsuariosMostrar.resx">
+    <EmbeddedResource Include="Forms\FRMUsuariosMostrar.resx">
       <DependentUpon>FRMUsuariosMostrar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
+    <EmbeddedResource Include="Forms\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="modificar_pais.resx">
+    <EmbeddedResource Include="Forms\modificar_pais.resx">
       <DependentUpon>modificar_pais.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NOTICIA.resx">
+    <EmbeddedResource Include="Forms\NOTICIA.resx">
       <DependentUpon>NOTICIA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PaginaPrincipal.resx">
+    <EmbeddedResource Include="Forms\PaginaPrincipal.resx">
       <DependentUpon>PaginaPrincipal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Pais.resx">
+    <EmbeddedResource Include="Forms\Pais.resx">
       <DependentUpon>Pais.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Preacciones.resx">
+    <EmbeddedResource Include="Forms\Preacciones.resx">
       <DependentUpon>Preacciones.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -357,45 +357,45 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Reaccion.resx">
+    <EmbeddedResource Include="Forms\Reaccion.resx">
       <DependentUpon>Reaccion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="React.resx">
+    <EmbeddedResource Include="Forms\React.resx">
       <DependentUpon>React.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReactComent.resx">
+    <EmbeddedResource Include="Forms\ReactComent.resx">
       <DependentUpon>ReactComent.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reactmostrar.resx">
+    <EmbeddedResource Include="Forms\Reactmostrar.resx">
       <DependentUpon>Reactmostrar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Registro.resx">
+    <EmbeddedResource Include="Forms\Registro.resx">
       <DependentUpon>Registro.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ResetPassword.resx">
+    <EmbeddedResource Include="Forms\ResetPassword.resx">
       <DependentUpon>ResetPassword.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Solicitudes.resx">
+    <EmbeddedResource Include="Forms\Solicitudes.resx">
       <DependentUpon>Solicitudes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SolicitudesMostrar.resx">
+    <EmbeddedResource Include="Forms\SolicitudesMostrar.resx">
       <DependentUpon>SolicitudesMostrar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VerPublicacElegida.resx">
+    <EmbeddedResource Include="Forms\VerPublicacElegida.resx">
       <DependentUpon>VerPublicacElegida.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="PANAL3DataSet.xsc">
+    <None Include="Forms\PANAL3DataSet.xsc">
       <DependentUpon>PANAL3DataSet.xsd</DependentUpon>
     </None>
-    <None Include="PANAL3DataSet.xsd">
+    <None Include="Forms\PANAL3DataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
       <LastGenOutput>PANAL3DataSet.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="PANAL3DataSet.xss">
+    <None Include="Forms\PANAL3DataSet.xss">
       <DependentUpon>PANAL3DataSet.xsd</DependentUpon>
     </None>
-    <None Include="panalbase_TemporaryKey.pfx" />
+    <None Include="Forms\panalbase_TemporaryKey.pfx" />
     <None Include="Properties\DataSources\Program.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

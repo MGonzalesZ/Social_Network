@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "panalbase", "panalbase.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsLibraryNOTICIAS", "D:\SISTEMAS\3ER SEMESTRE\PROGRAMACION 3\Para Proyecto Grupal\Prueba de panel de noticias v1\Prueba de panel de noticias\WinFormsLibraryNOTICIAS\WinFormsLibraryNOTICIAS.csproj", "{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{3A410F3A-D701-4FC1-A390-444867518ADE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,8 +21,6 @@ Global
 		{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD2D11CB-3C8D-4DE4-AEBA-76CC19CA0ED2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A410F3A-D701-4FC1-A390-444867518ADE}.Debug|Any CPU.ActiveCfg = Debug
-		{3A410F3A-D701-4FC1-A390-444867518ADE}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hXxOw6FUKUW2/KpzSyhfyRtVMWtW2jBKJFErljmEGKk=</dsig:DigestValue>
+        <dsig:DigestValue>Pbktmzo0xS2H0ro5utGeFcv95ymVjMq5DuG5OO0CYP0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,13 +98,49 @@
       <dsig:DigestValue>EKfkpbfJ5l6ecpRrots14nskT1TuHmd3UCtBMgqjKzs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="resources\query.sql" size="84330">
+  <file name="resources\1.JPG" size="52910">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>W7DmBHWvgQLEWFy8WNQnX+Na07NzkJ/n4zGGH10Zhrw=</dsig:DigestValue>
+      <dsig:DigestValue>NDD2+7z+zRWr0oKHuFv/2PN6x4bWeJMz2JNTXEJLzos=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="resources\2.JPG" size="16656">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>66iUxPTWaKHE94Ds65GnZKm5af6kXlGBJF103GlAmtU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="resources\3.JPG" size="47468">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KxetcTlJyjfLTao75Mf3E+bFXJv7Y7COS0if2BTQAtU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="resources\4.JPG" size="54585">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yBdP3GusdAlfykbVM8eN6ioPOz3JemFBtwG7Vc2nYSs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="resources\query.sql" size="84210">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gHmv7LjKsehEK7mE/E/9Xo5Ebx4rySDqcA9pzVIE3Cw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
