@@ -1,3 +1,4 @@
+                                                                           By: Mauricio Gonzales Zubieta
 SOCIAL NETWORK  
 I have developed this project with C#  
 It allows users to create profiles and interact with other users  
