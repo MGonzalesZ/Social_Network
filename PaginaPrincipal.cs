@@ -275,7 +275,7 @@ namespace panalbase
             catch (Exception ex)
             {
 
-                MessageBox.Show("error al mostrar perfil");
+                MessageBox.Show(ex.ToString());
             }
             finally
             {

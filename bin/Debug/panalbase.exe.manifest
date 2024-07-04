@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="panalbase.exe" size="417280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="panalbase.exe" size="416768">
       <assemblyIdentity name="panalbase" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SRhg0RhTxFi1cHC+4xHrTTuY0aNX8TpYHzvOFXsQvDI=</dsig:DigestValue>
+        <dsig:DigestValue>hXxOw6FUKUW2/KpzSyhfyRtVMWtW2jBKJFErljmEGKk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -96,6 +96,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>EKfkpbfJ5l6ecpRrots14nskT1TuHmd3UCtBMgqjKzs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="resources\query.sql" size="84330">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>W7DmBHWvgQLEWFy8WNQnX+Na07NzkJ/n4zGGH10Zhrw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

@@ -423,6 +423,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="resources\1.JPG" />
+    <Content Include="resources\2.JPG" />
+    <Content Include="resources\3.JPG" />
+    <Content Include="resources\4.JPG" />
     <Content Include="resources\query.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
